@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align=right>
+<div align=left>
   <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkommadot"/></a>
 
   [![mail Badge](https://img.shields.io/badge/-Naver-green?style=flat-square&link=mailto:tlagyqls7@naver.com)](mailto:tlagyqls7@naver.com)

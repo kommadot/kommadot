@@ -12,4 +12,7 @@
 
 
 [![Kommadot's profile](https://github-readme-stats.vercel.app/api?username=kommadot)](https://github.com/kommadot)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kommadot&layout=compact)](https://github.com/kommadot)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tlagyqls7)](https://solved.ac/tlagyqls7)
